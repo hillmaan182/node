@@ -1,4 +1,4 @@
-{
+[{
       "name" : "mahesh",
       "password" : "password1",
       "profession" : "teacher",
@@ -15,4 +15,4 @@
       "password" : "password3",
       "profession" : "clerk",
       "id": 3
-   }
+   }]
